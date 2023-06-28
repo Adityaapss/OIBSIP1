@@ -1,0 +1,58 @@
+/* CSS styles for the landing page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #b33c3c;
+    color: #ffffff;
+    padding: 20px 0;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .navigation {
+    margin-top: 10px;
+  }
+  
+  .navigation a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .navigation a.active {
+    font-weight: bold;
+  }
+  
+  .hero-section {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero-section h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration:
+  
